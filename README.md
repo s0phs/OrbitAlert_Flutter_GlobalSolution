@@ -50,7 +50,7 @@ lib/
 
 ✅ Splash Screen
 
-<img width="496" height="760" alt="Captura de tela 2026-06-02 093440" src="https://github.com/user-attachments/assets/71fe1608-22b8-4bf5-9c91-d001957e9a0b" />
+<img width="220" alt="Captura de tela 2026-06-02 093440" src="https://github.com/user-attachments/assets/71fe1608-22b8-4bf5-9c91-d001957e9a0b" />
 
 - Tela inicial com animação Lottie.
 
@@ -58,7 +58,11 @@ lib/
 
 ✅ Intro / Onboarding
 
-![](media/image2.png){width="1.8240201224846895in" height="2.772657480314961in"}![](media/image3.png){width="1.7959755030621172in" height="2.7650010936132983in"}![](media/image4.png){width="1.8123982939632546in" height="2.7843700787401575in"}
+<p align="center">
+  <img width="220" alt="Captura de tela 2026-06-02 093515" src="https://github.com/user-attachments/assets/50dce7f5-d215-4227-aaeb-f139259d817f" />
+  <img width="220" alt="Captura de tela 2026-06-02 093535" src="https://github.com/user-attachments/assets/ae2221a6-ae27-4f61-a6d6-1a119a0a6222" />
+  <img width="220" alt="Captura de tela 2026-06-02 093606" src="https://github.com/user-attachments/assets/8f290373-65ce-49bb-a831-80e1720c0b71" />
+</p>
 
 - Telas informativas apresentando o objetivo do OrbitAlert.
 
@@ -68,7 +72,7 @@ lib/
 
 ✅ Login
 
-![](media/image5.png){width="2.463565179352581in" height="3.7827974628171477in"}
+<img width="220" alt="Captura de tela 2026-06-02 093714" src="https://github.com/user-attachments/assets/097d9973-f813-4a12-be70-371ebe157eb1" />
 
 - Tela de autenticação simulada.
 
@@ -76,7 +80,7 @@ lib/
 
 ✅ Home
 
-![](media/image6.png){width="2.2385728346456695in" height="3.47917104111986in"}
+<img width="220" alt="Captura de tela 2026-06-02 093849" src="https://github.com/user-attachments/assets/fb06fd75-4c8a-49be-8e1f-6abe3f897df1" />
 
 - Lista de regiões brasileiras monitoradas.
 
@@ -86,7 +90,7 @@ lib/
 
 ✅ Detalhe da Região
 
-![](media/image7.png){width="2.0837478127734035in" height="3.234730971128609in"}
+<img width="220" alt="Captura de tela 2026-06-02 093946" src="https://github.com/user-attachments/assets/59435112-f067-4832-80ef-0e0c22b20cfc" />
 
 - Informações detalhadas da região selecionada.
 
@@ -96,7 +100,7 @@ lib/
 
 ✅ Detalhe do Estado
 
-![](media/image8.png){width="2.2474234470691163in" height="3.445748031496063in"}
+<img width="220" alt="Captura de tela 2026-06-02 094010" src="https://github.com/user-attachments/assets/a10e7522-c04a-4f95-87e5-f789bf9539b2" />
 
 - Exibição detalhada do estado.
 
@@ -106,7 +110,7 @@ lib/
 
 ✅ Tela Sobre
 
-![](media/image9.png){width="2.2877843394575677in" height="3.5175273403324585in"}
+<img width="220" alt="Captura de tela 2026-06-02 094053" src="https://github.com/user-attachments/assets/142f953a-1836-4406-8f50-da2ba85ad326" />
 
 - Explicação sobre o propósito do OrbitAlert.
 
@@ -126,7 +130,7 @@ Login
 
 ↓
 
-Home Sobre
+Home -> Sobre
 
 ↓
 
