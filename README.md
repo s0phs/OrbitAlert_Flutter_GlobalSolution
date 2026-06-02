@@ -50,7 +50,7 @@ lib/
 
 ✅ Splash Screen
 
-![](media/image1.png){width="2.346813210848644in" height="3.5959251968503936in"}
+<img width="496" height="760" alt="Captura de tela 2026-06-02 093440" src="https://github.com/user-attachments/assets/71fe1608-22b8-4bf5-9c91-d001957e9a0b" />
 
 - Tela inicial com animação Lottie.
 
