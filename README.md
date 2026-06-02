@@ -49,9 +49,9 @@ lib/
 🌎 Funcionalidades com telas
 
 ✅ Splash Screen
-
-<img width="220" alt="Captura de tela 2026-06-02 093440" src="https://github.com/user-attachments/assets/71fe1608-22b8-4bf5-9c91-d001957e9a0b" />
-
+<p align="center">
+  <img width="220" alt="Captura de tela 2026-06-02 093440" src="https://github.com/user-attachments/assets/71fe1608-22b8-4bf5-9c91-d001957e9a0b" />
+</p>
 - Tela inicial com animação Lottie.
 
 - Redirecionamento automático para a introdução do aplicativo.
@@ -71,17 +71,17 @@ lib/
 - Indicadores visuais de página.
 
 ✅ Login
-
-<img width="220" alt="Captura de tela 2026-06-02 093714" src="https://github.com/user-attachments/assets/097d9973-f813-4a12-be70-371ebe157eb1" />
-
+<p align="center">
+  <img width="220" alt="Captura de tela 2026-06-02 093714" src="https://github.com/user-attachments/assets/097d9973-f813-4a12-be70-371ebe157eb1" />
+</p>
 - Tela de autenticação simulada.
 
 - Navegação para a tela principal após login.
 
 ✅ Home
-
-<img width="220" alt="Captura de tela 2026-06-02 093849" src="https://github.com/user-attachments/assets/fb06fd75-4c8a-49be-8e1f-6abe3f897df1" />
-
+<p align="center">
+  <img width="220" alt="Captura de tela 2026-06-02 093849" src="https://github.com/user-attachments/assets/fb06fd75-4c8a-49be-8e1f-6abe3f897df1" />
+</p>
 - Lista de regiões brasileiras monitoradas.
 
 - Exibição de informações resumidas sobre cada região.
@@ -89,9 +89,9 @@ lib/
 - Navegação para detalhes da região.
 
 ✅ Detalhe da Região
-
-<img width="220" alt="Captura de tela 2026-06-02 093946" src="https://github.com/user-attachments/assets/59435112-f067-4832-80ef-0e0c22b20cfc" />
-
+<p align="center">
+  <img width="220" alt="Captura de tela 2026-06-02 093946" src="https://github.com/user-attachments/assets/59435112-f067-4832-80ef-0e0c22b20cfc" />
+</p>
 - Informações detalhadas da região selecionada.
 
 - Lista de estados monitorados.
@@ -99,9 +99,9 @@ lib/
 - Eventos climáticos exibidos com ícones personalizados.
 
 ✅ Detalhe do Estado
-
-<img width="220" alt="Captura de tela 2026-06-02 094010" src="https://github.com/user-attachments/assets/a10e7522-c04a-4f95-87e5-f789bf9539b2" />
-
+<p align="center">
+  <img width="220" alt="Captura de tela 2026-06-02 094010" src="https://github.com/user-attachments/assets/a10e7522-c04a-4f95-87e5-f789bf9539b2" />
+</p>
 - Exibição detalhada do estado.
 
 - Informações climáticas e ambientais.
@@ -109,9 +109,9 @@ lib/
 - Ícones específicos para os eventos.
 
 ✅ Tela Sobre
-
-<img width="220" alt="Captura de tela 2026-06-02 094053" src="https://github.com/user-attachments/assets/142f953a-1836-4406-8f50-da2ba85ad326" />
-
+<p align="center">
+  <img width="220" alt="Captura de tela 2026-06-02 094053" src="https://github.com/user-attachments/assets/142f953a-1836-4406-8f50-da2ba85ad326" />
+</p>
 - Explicação sobre o propósito do OrbitAlert.
 
 \-\--
